@@ -1,4 +1,7 @@
-# Adaptive_Random_Forest_on_FPGA
+# Accelerated Real-Time Classification of Evolving Data Streams using Adaptive Random Forests​
+
+Implementation for the paper with same title as repo (link will be added when available)
+​
 ## Prerequisites
 Vitis HLS - 2022.2 
 
