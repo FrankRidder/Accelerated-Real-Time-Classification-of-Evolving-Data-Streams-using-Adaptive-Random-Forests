@@ -1,6 +1,6 @@
 # Accelerated Real-Time Classification of Evolving Data Streams using Adaptive Random Forests​
 
-Implementation for the paper with same title as repo (link will be added when available)
+Implementation for the [paper]{https://ieeexplore.ieee.org/document/10416141} with same title as repo
 ​
 ## Prerequisites
 Vitis HLS - 2022.2 
